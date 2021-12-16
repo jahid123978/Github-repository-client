@@ -1,0 +1,26 @@
+.github{
+   margin-left: 85px;
+   font-size: 20px;
+   margin-bottom: 20px;
+}
+.repo{
+   margin-bottom: 1px;
+}
+.repo-input{
+    width: 250px;
+    padding: 5px;
+    border: 1px solid black;
+}
+.description{
+    width: 250px;
+    padding: 10px;
+    border: 1px solid black;
+}
+.button{
+    margin-top: 10px;
+    margin-left: 100px;
+    padding: 5px 15px;
+    background-color: dodgerblue;
+    border-radius: 5px;
+    color: white;
+}
